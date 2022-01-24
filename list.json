@@ -2,7 +2,10 @@
   { "giturl": "MrSliddes/SLIDDES-Unity-ActivityTracker" },
   { "giturl": "MrSliddes/SLIDDES-Unity-Debug" },
   { "giturl": "MrSliddes/SLIDDES-Unity-MathC" },
+  { "giturl": "MrSliddes/SLIDDES-Unity-Networking-Web" },
+  { "giturl": "MrSliddes/SLIDDES-Unity-Networking-WebGL" },
   { "giturl": "MrSliddes/SLIDDES-Unity-Packages" },
   { "giturl": "MrSliddes/SLIDDES-Unity-Screenshot" },
-  { "giturl": "MrSliddes/SLIDDES-Unity-TestRepo" }
+  { "giturl": "MrSliddes/SLIDDES-Unity-TestRepo" },
+  { "giturl": "MrSliddes/SLIDDES-Unity-UI" },
 ]
